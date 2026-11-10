@@ -1,0 +1,2 @@
+# iptv-kipre
+service stable
